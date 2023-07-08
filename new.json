@@ -1,0 +1,67 @@
+{
+  "Rajput": [
+    {
+      "id": 1,
+      "name": "Ashu tariyal",
+      "email": "ashu@gmail.com",
+      "phone": "7827267431",
+      "class": "java"
+    },
+    {
+      "id": 3,
+      "name": "Karan",
+      "email": "karan@gmail.com",
+      "phone": 8587094060,
+      "class": "mern"
+    },
+    {
+      "id": 4,
+      "name": "jhon",
+      "email": "jhon@gmail.com",
+      "phone": 9317272774,
+      "class": "c++"
+    },
+    {
+      "name": "Ram ",
+      "email": "ram@gmail.com",
+      "phone": "11111111",
+      "class": "java",
+      "id": 5
+    },
+    {
+      "name": "Shiv",
+      "email": "shiv@gmail.com",
+      "phone": "22222222",
+      "class": "java",
+      "id": 6
+    },
+    {
+      "name": "krish",
+      "email": "krish@gmail.com",
+      "phone": "33333333",
+      "class": "java",
+      "id": 7
+    },
+    {
+      "name": "jai ",
+      "email": "jai@gmail.com",
+      "phone": "9566875742",
+      "class": "c",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "mahakal",
+      "email": "mahakal@gmail.com",
+      "phone": "55555555",
+      "class": "universe"
+    },
+    {
+      "name": "Shree Lord Punnet",
+      "email": "lordpunnet@gmail.com",
+      "phone": "597464659",
+      "class": "java",
+      "id": 10
+    }
+  ]
+}
